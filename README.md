@@ -9,14 +9,13 @@
 ----
 
 ### 🔭 Alguns projetos:
-
-    * Pixels Art
-    * Carrinho de Compras
-    * TrybeTunes
-    * FrontEnd Online Store
-    * TrybeWallet
-    * StarWars
-    * App de Receitas
+  * [Pixels Art](https://github.com/devarturmartins/project-pixels-art-trybe)
+  * [Carrinho de Compras](https://github.com/devarturmartins/project-shopping-cart-trybe)
+  * [TrybeTunes](https://github.com/devarturmartins/project-trybetunes-trybe)
+  * [FrontEnd Online Store](https://github.com/devarturmartins/project-frontend-online-store-trybe)
+  * [TrybeWallet](https://github.com/devarturmartins/project-trybewallet-trybe)
+  * [StarWars](https://github.com/devarturmartins/project-starwars-planets-search-trybe)
+  * [App de Receitas](https://github.com/devarturmartins/project-recipes-app-trybe)
     
 
 
