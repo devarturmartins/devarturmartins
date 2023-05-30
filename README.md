@@ -17,6 +17,8 @@
   * [StarWars](https://github.com/devarturmartins/project-starwars-planets-search-trybe)
   * [App de Receitas](https://github.com/devarturmartins/project-recipes-app-trybe)
   * [Trybe Futebol Club](https://github.com/devarturmartins/trybe-futebol-club-trybe)
+  * [TrybeSmith](https://github.com/devarturmartins/trybesmith-trybe)
+  * [Blogs API](https://github.com/devarturmartins/blogs-api-trybe)
     
 
 
