@@ -37,6 +37,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp" alt="NextJS"/></code>
 <code><img height="32" src="https://www.freecodecamp.org/portuguese/news/content/images/2022/05/solid.png" alt="SOLID"/></code>
 <code><img height="32" src="https://4.bp.blogspot.com/-Bx-UYCheS3Y/UwSDeRIkSZI/AAAAAAAACgY/_-J6s4GzjEc/s1600/image.jpg" alt="POO"/></code>
 
