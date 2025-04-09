@@ -2,25 +2,9 @@
 
 ### Sobre mim
 
-> Sou natural de Piracuruca - Pi e inicialmente escolhi a carreira de engenharia elétrica como caminho profissional. Entretanto, decidi mudar de carreira e me tornar um desenvolvedor web, dedicando meu tempo e esforço para aprender as habilidades necessárias para trabalhar nessa área.
->Como desenvolvedor web, me concentro em criar e manter websites, aplicativos e outras soluções digitais para empresas e pessoas. Utilizo minhas habilidades em programação para construir interfaces atraentes e funcionais que atendem às necessidades específicas de meus clientes.
->Embora tenha feito uma mudança significativa de carreira, sou uma pessoa determinada e confiante em minhas habilidades como desenvolvedor web. Estou sempre disposto a aprender mais e estou comprometido em fornecer soluções de alta qualidade para qualquer pessoa.
+>Na Grendene S/A, desenvolvo e otimizo softwares WEB, mobile e Desktop, aplicando metodologias ágeis como Scrum e Kanban e tecnologias como ReactNative, C#, .Net, ASP.NET e SQL SERVER. Lidero o processo de migração em algumas aplicacoes de Low-Code para C#, aumentando a eficiência e a performance das aplicações.
 
 ----
-
-### 🔭 Alguns projetos:
-  * [Pixels Art](https://github.com/devarturmartins/project-pixels-art-trybe)
-  * [Carrinho de Compras](https://github.com/devarturmartins/project-shopping-cart-trybe)
-  * [TrybeTunes](https://github.com/devarturmartins/project-trybetunes-trybe)
-  * [FrontEnd Online Store](https://github.com/devarturmartins/project-frontend-online-store-trybe)
-  * [TrybeWallet](https://github.com/devarturmartins/project-trybewallet-trybe)
-  * [StarWars](https://github.com/devarturmartins/project-starwars-planets-search-trybe)
-  * [App de Receitas](https://github.com/devarturmartins/project-recipes-app-trybe)
-  * [Trybe Futebol Club](https://github.com/devarturmartins/trybe-futebol-club-trybe)
-  * [TrybeSmith](https://github.com/devarturmartins/trybesmith-trybe)
-  * [Blogs API](https://github.com/devarturmartins/blogs-api-trybe)
-    
-
 
 ----
 
